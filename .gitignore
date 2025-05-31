@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+.next/
+out/
+dist/
+coverage/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.sw?
+
+# Environment files
+.env*
+!.env.example
+
+# Next.js
+.next/
+.next/cache/
+
+# Tailwind
+tailwind.config.js
+tailwind.config.cjs
+tailwind.config.mjs
+tailwind.config.ts
+
+# TypeScript
+*.tsbuildinfo
+
+# Image outputs
+/public/placeholder*.*
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.webp
+
+# Other temp
+.cache/
+*.local
+*.lock
+*.swp
+*.tmp
