@@ -41,7 +41,6 @@ tailwind.config.mjs
 
 # Image outputs
 /public/placeholder*.*
-*.png
 *.jpg
 *.jpeg
 *.svg
